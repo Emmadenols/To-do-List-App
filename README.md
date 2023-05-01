@@ -1,2 +1,2 @@
 # To-do-List-App
-Used HTML, CSS and JavaScript in building this Web App as I continue my learning process
+One of my first major projects using HTML, CSS and JavaScript. Building a To-do List App (Web) to manage all my present and future tasks.
